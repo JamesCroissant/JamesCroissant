@@ -1,16 +1,65 @@
-### Hi there 👋
 
-<!--
-**JamesCroissant/JamesCroissant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi there, I'm Yu Hamada 👋</h1>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  
+[![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&theme=tokyonight&count_private=true)](#typescriptjavascript)
+
+[![Yu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&theme=vue-dark&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=JamesCroissant&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
+
+
+<div align="left">
+
+[![GitHub badge JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#typescriptjavascript)
+[![GitHub badge React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react)
+[![GitHub badge Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#nodejs)
+[![GitHub badge Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#python)
+[![GitHub badge Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](#ruby-on-rails)
+
+</div>
+
+
+<p align="left">
+  <a href="https://github.com/JamesCroissant/JamesCroissant/">
+    <img src="https://komarev.com/ghpvc/?username=JamesCroissant" alt="JamesCroissant" />
+  </a>
+  <a href="http://twitter.com/yu-van-engineer">
+    <img height="20" src="https://img.shields.io/twitter/follow/yu-van-engineer?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/JamesCroissant">
+    <img height="20" src="https://img.shields.io/github/followers/JamesCroissant?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+
+- 🔭 I’m a tech student in Vancouver🇨🇦.
+- 🌱 I’m currently learning front-end language especially JavaScript.
+- 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
+- 🧡 Hobby : Snow Boarding🏂, Traveling✈️
+
+
+<br />
+<br />
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yu-hamada-308893256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eric1015" /></a>
+<a href="https://twitter.com/yu_van_engineer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Eric1015" /></a>
+</p>
+
+<br />
+<br />
+
+
+
