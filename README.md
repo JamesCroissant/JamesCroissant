@@ -11,6 +11,7 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 - 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
 - 🧡 Hobby : Snow Boarding🏂  Running👟  Traveling✈️
 
+<br />
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpres&theme=light)](https://github.com/JamesCroissant)
