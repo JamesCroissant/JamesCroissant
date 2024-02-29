@@ -11,22 +11,17 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 - 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
 - 🧡 Hobby : Snow Boarding🏂  Running👟  Traveling✈️
 
-<br />
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpres&theme=light)](https://github.com/JamesCroissant)
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,django,rails,redux,tailwind,sass,selenium,bootstrap&theme=light)](https://github.com/JamesCroissant)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,firebase,supabase,prisma,postgres,mongodb,figma&theme=light)](https://github.com/JamesCroissant)
 
-<br />
-
 ### Connect with me
 <p align="left">
  <a href="https://www.linkedin.com/in/yu-hamada/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="JamesCroissant" /></a>
  <a href="https://twitter.com/yu_van_engineer" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" lt="JamesCroissant"/></a>
 </p>
-
-<br />
 
 ### My GitHub Stats
 <div align="left"> 
@@ -35,7 +30,7 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JamesCroissant/&theme=discord&column=9
-)](https://github.com/JamesCroissant/)
+)](https://github.com/JamesCroissant)
 
 
 
