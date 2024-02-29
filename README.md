@@ -3,6 +3,14 @@
 
 <br />
 
+As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript and React.js.
+
+- 🔭 I’m a Front-End Web Developer in Vancouver🇨🇦.
+- 🌱 I’m currently working on several team and personal projects.
+- ❤️‍🔥 I've been concentrating on gaining expertise in backend development and design.
+- 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
+- 🧡 Hobby : Snow Boarding🏂, Running👟, Traveling✈️
+
 <div align="left">
   
 [![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&theme=tokyonight&count_private=true)](#typescriptjavascript)
@@ -42,10 +50,7 @@
 
 <br />
 
-- 🔭 I’m a tech student in Vancouver🇨🇦.
-- 🌱 I’m currently learning front-end language especially JavaScript.
-- 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
-- 🧡 Hobby : Snow Boarding🏂, Traveling✈️
+
 
 <br />
 
