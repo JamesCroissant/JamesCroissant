@@ -30,9 +30,7 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
-[![Yu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesCroissant&theme=tokyonight)](https://github.com/JamesCroissant/github-readme-activity-graph)
+[![Yu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesCroissant&theme=tokyo-night)](https://github.com/JamesCroissant/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JamesCroissant/&theme=tokyonight)](https://github.com/JamesCroissant)
-
-
+<br />
 
