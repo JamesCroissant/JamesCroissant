@@ -14,9 +14,9 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 <br />
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpress)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,django,rails,socket,redux,tailwind,sass,bootstrap)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=,git,docker,firebase,supabase,prisma,postgres,mongodb)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpres&theme=lights)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,django,rails,redux,tailwind,sass,selenium,bootstrap&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,firebase,supabase,prisma,postgres,mongodb,figma&theme=light)](https://github.com/JamesCroissant)
 
 
 <div align="left">
@@ -29,17 +29,6 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
-
-
-<div align="left">
-
-[![GitHub badge JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#typescriptjavascript)
-[![GitHub badge React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react)
-[![GitHub badge Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#nodejs)
-[![GitHub badge Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#python)
-[![GitHub badge Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](#ruby-on-rails)
-
-</div>
 
 <br />
 
@@ -57,9 +46,6 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 
 
 <br />
-
-
-
 <br />
 
 
