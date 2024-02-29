@@ -18,18 +18,6 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,django,rails,redux,tailwind,sass,selenium,bootstrap&theme=light)](https://github.com/JamesCroissant)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,firebase,supabase,prisma,postgres,mongodb,figma&theme=light)](https://github.com/JamesCroissant)
 
-
-<div align="left">
-  
-[![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&theme=tokyonight&count_private=true)](#typescriptjavascript)
-
-</div>
-
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
-
 <br />
 
 <p align="left">
@@ -44,7 +32,6 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
   </a>
 </p>
 
-
 <br />
 <br />
 
@@ -57,6 +44,19 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 
 <br />
 <br />
+
+### My GitHub Stats
+
+<div align="left"> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Yu's GitHub stats" height="180px"/>
+
+<img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JamesCroissant/&theme=discord&column=9
+)](https://github.com/JamesCroissant/)
 
 
 
