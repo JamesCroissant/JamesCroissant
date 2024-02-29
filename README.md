@@ -9,7 +9,8 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 - 🌱 I’m currently working on several team and personal projects.
 - ❤️‍🔥 I've been concentrating on gaining expertise in backend development and design.
 - 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
-- 🧡 Hobby : Snow Boarding🏂, Running👟, Traveling✈️
+- 🧡 Hobby : Snow Boarding🏂  Running👟  Traveling✈️
+
 
 <div align="left">
   
