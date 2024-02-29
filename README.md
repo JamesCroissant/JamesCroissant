@@ -32,5 +32,8 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 
 [![Yu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesCroissant&theme=tokyo-night)](https://github.com/JamesCroissant/github-readme-activity-graph)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JamesCroissant&theme=discord&column=9
+)](https://github.com/JamesCroissant)
+
 <br />
 
