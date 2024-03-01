@@ -14,7 +14,7 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 <br />
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpres&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpress&theme=light)](https://github.com/JamesCroissant)
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,django,rails,redux,tailwind,sass,selenium,bootstrap&theme=light)](https://github.com/JamesCroissant)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,firebase,supabase,prisma,postgres,mongodb,figma&theme=light)](https://github.com/JamesCroissant)
 
