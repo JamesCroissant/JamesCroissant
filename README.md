@@ -26,7 +26,7 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 
 ### My Portfolio
 <div align="left">
- <a href="https://yuhamada.dev" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+ <a href="https://yuhamada.dev" target="_blank" rel="noopener noreferrer">Yu Hamada</a>
 </div>
 
 ### My GitHub Stats
