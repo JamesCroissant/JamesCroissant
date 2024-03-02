@@ -3,7 +3,7 @@
 
 <br />
 
-As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript and React.js.
+As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript and React.js, Next.js, Node.js, Redux, Python for building user-friendly applications.
 
 - 🇨🇦 I’m a Front-End Web Developer in Vancouver.
 - 🌱 I’m currently working on several team and personal projects.
