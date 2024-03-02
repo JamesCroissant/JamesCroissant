@@ -24,16 +24,18 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
  <a href="https://twitter.com/yu_van_engineer" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" lt="JamesCroissant"/></a>
 </p>
 
+### My Portfolio
+<div align="left">
+ <a href="https://yuhamada.dev" target="_blank" rel="noopener noreferrer"></a>
+</div>
+
 ### My GitHub Stats
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Yu's GitHub stats" height="180px"/>
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
-[![Yu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesCroissant&theme=tokyo-night)](https://github.com/JamesCroissant/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JamesCroissant&theme=discord&column=9
-)](https://github.com/JamesCroissant)
 
 <br />
 
