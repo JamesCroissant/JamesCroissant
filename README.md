@@ -33,10 +33,9 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 
 ### My GitHub Stats
 <div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Yu's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Yu's GitHub stats" height="180px"　/>
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
-
 
 
 <br />
