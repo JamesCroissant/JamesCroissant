@@ -7,7 +7,7 @@ As an aspiring Front-End Developer based in Vancouver, Canada, I am deeply passi
 
 <br />
 
-- 🇨🇦 I’m a Front-End Web Developer in Vancouver.
+- 🇨🇦 I’m a Full-Stack Web Developer in Vancouver.
 - 🌱 I’m currently working on several team and personal projects.
 - ❤️‍🔥 I've been concentrating on gaining expertise in backend development and design.
 - 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
