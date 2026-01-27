@@ -3,12 +3,12 @@
 
 <br />
 
-As an aspiring Full-Stack Developer based in Vancouver, Canada, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript, React.js, Next.js, Node.js, Ruby and Python for building user-friendly applications.
+As an aspiring Full-Stack Developer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript, React.js, Next.js, Node.js, Ruby and Python for building user-friendly applications.
 
 <br />
 
-- 🇨🇦 I’m a Full-Stack Web Developer in Vancouver.
-- 🌱 I’m currently working on several team and personal projects.
+- 🇨🇦 I'm a Full-Stack Web Developer in Vancouver.
+- 🌱 I'm currently working on several team and personal projects.
 - ❤️‍🔥 I've been concentrating on gaining expertise in backend development and design.
 - 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
 - 🧡 Hobby : Snow Boarding🏂  Running👟  Traveling✈️
@@ -17,13 +17,14 @@ As an aspiring Full-Stack Developer based in Vancouver, Canada, I am deeply pass
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpress&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,rails,redux,tailwind,sass,selenium,bootstrap&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,firebase,supabase,prisma,postgres,mongodb,figma&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,rails,redux,tailwind,sass,selenium,bootstrap,reactnative,streamlit,vite&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,firebase,supabase,prisma,postgres,mongodb,redis,nginx,githubactions,figma&theme=light)](https://github.com/JamesCroissant)
 
 ### Connect with me
 <p align="left">
  <a href="https://www.linkedin.com/in/yu-hamada/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="JamesCroissant" /></a>
- <a href="https://twitter.com/yu_van_engineer" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" lt="JamesCroissant"/></a>
+ <a href="https://twitter.com/yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="JamesCroissant"/></a>
+ <a href="https://youtube.com/@yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ### My Portfolio
@@ -39,4 +40,3 @@ As an aspiring Full-Stack Developer based in Vancouver, Canada, I am deeply pass
 
 
 <br />
-
