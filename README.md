@@ -3,7 +3,7 @@
 
 <br />
 
-As an aspiring Full-Stack Developer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript, React.js, Next.js, Node.js, Ruby and Python for building user-friendly applications.
+As an aspiring 4 years Full-Stack Developer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript, React.js, Next.js, Node.js, Ruby and Python for building user-friendly applications.
 
 <br />
 
@@ -17,8 +17,8 @@ As an aspiring Full-Stack Developer based in Taiwan, I am deeply passionate abou
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpress&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,rails,redux,tailwind,sass,selenium,bootstrap,reactnative,streamlit,vite&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,firebase,supabase,prisma,postgres,mongodb,redis,nginx,githubactions,figma,gcp,vercel,cloudflare,netlify,render,atlassian,canva,notion,miro,openai,claude,gemini&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,rails,redux,tailwind,sass,selenium,bootstrap,vite&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,firebase,supabase,prisma,postgres,mongodb,redis,nginx,githubactions,figma,gcp,vercel,cloudflare,notion&theme=light)](https://github.com/JamesCroissant)
 
 ### Connect with me
 <p align="left">
