@@ -18,13 +18,13 @@ As an aspiring Full-Stack Developer based in Taiwan, I am deeply passionate abou
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpress&theme=light)](https://github.com/JamesCroissant)
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,rails,redux,tailwind,sass,selenium,bootstrap,reactnative,streamlit,vite&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,firebase,supabase,prisma,postgres,mongodb,redis,nginx,githubactions,figma&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,firebase,supabase,prisma,postgres,mongodb,redis,nginx,githubactions,figma,gcp,vercel,cloudflare,netlify,render,jira,atlassian,canva,notion,miro,openai,claude,gemini,notebooklm,v0&theme=light)](https://github.com/JamesCroissant)
 
 ### Connect with me
 <p align="left">
- <a href="https://www.linkedin.com/in/yu-hamada/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="JamesCroissant" /></a>
- <a href="https://twitter.com/yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="JamesCroissant"/></a>
- <a href="https://youtube.com/@yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+ <a href="https://www.linkedin.com/in/yu-hamada/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+ <a href="https://twitter.com/yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" /></a>
+ <a href="https://youtube.com/@yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/youtube/FF0000/ffffff" alt="YouTube" height="36" /></a>
 </p>
 
 ### My Portfolio
