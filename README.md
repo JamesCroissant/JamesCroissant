@@ -23,8 +23,6 @@ As an aspiring 4 years Full-Stack Developer based in Taiwan, I am deeply passion
 ### Connect with me
 <p align="left">
  <a href="https://www.linkedin.com/in/yu-hamada/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
- <a href="https://twitter.com/yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" /></a>
- <a href="https://youtube.com/@yu_master_ai" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/youtube/FF0000/ffffff" alt="YouTube" height="36" /></a>
 </p>
 
 ### My Portfolio
