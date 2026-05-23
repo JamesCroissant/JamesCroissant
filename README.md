@@ -3,14 +3,14 @@
 
 <br />
 
-As an aspiring 4 years Full-Stack Developer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript, React.js, Next.js, Node.js, Ruby and Python for building user-friendly applications.
+As an aspiring 3 years Full-Stack Developer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript, React.js, Next.js, Node.js, Ruby and Python for building user-friendly applications.
 
 <br />
 
-- 🇨🇦 I'm a Full-Stack Web Developer in Vancouver.
+- 🇨🇦 I'm a Full-Stack Web Developer in Taiwan.
 - 🌱 I'm currently working on several team and personal projects.
 - ❤️‍🔥 I've been concentrating on gaining expertise in backend development and design.
-- 💻 Tech Interest : Web Application, AI, Blockchain, Crypto
+- 💻 Tech Interest : Web Application, AI, Blockchain
 - 🧡 Hobby : Snow Boarding🏂  Running👟  Traveling✈️
 
 <br />
@@ -32,7 +32,7 @@ As an aspiring 4 years Full-Stack Developer based in Taiwan, I am deeply passion
 
 ### My GitHub Stats
 <div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Yu's GitHub stats" height="180px"　/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesCroissant&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Yu's GitHub stats" height="180px" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCroissant&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
