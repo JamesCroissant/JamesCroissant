@@ -16,9 +16,9 @@ As an aspiring 3 years Full-Stack Developer based in Taiwan, I am deeply passion
 <br />
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,ruby,wordpress&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,rails,redux,tailwind,sass,selenium,bootstrap,vite&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,firebase,supabase,prisma,postgres,mongodb,redis,nginx,githubactions,figma,gcp,vercel,cloudflare,notion&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,redux&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,postgres,mongodb,redis,gcp,vercel,cloudflare,linux&theme=light)](https://github.com/JamesCroissant)
 
 ### Connect with me
 <p align="left">
