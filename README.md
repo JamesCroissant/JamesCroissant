@@ -7,10 +7,7 @@ As an aspiring 3 years Software Engineer based in Taiwan, I am deeply passionate
 
 <br />
 
-- 🇨🇦 I'm a Software Engineer in Taiwan.
-- 🌱 I'm currently working on several team and personal projects.
-- ❤️‍🔥 I've been concentrating on gaining expertise in backend development and design.
-- 💻 Tech Interest : Web Application, AI, Blockchain
+- 🇹🇼 I'm a Software Engineer in Taiwan.
 - 🧡 Hobby : Snow Boarding🏂  Running👟  Traveling✈️
 
 <br />
