@@ -3,7 +3,7 @@
 
 <br />
 
-As an aspiring 3 years Software Engineer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering HTML, CSS, JavaScript, and gaining proficiency in TypeScript, React.js, Next.js, Node.js, Ruby and Python for building user-friendly applications.
+As an aspiring 3 years Software Engineer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering TypeScript, React.js, Next.js, Python and C++ for building user-friendly applications.
 
 <br />
 
