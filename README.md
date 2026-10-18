@@ -14,7 +14,7 @@ Software engineer with 4 years of experience in React.js, TypeScript, and back-e
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp&theme=light)](https://github.com/JamesCroissant)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,redux&theme=light)](https://github.com/JamesCroissant)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,redux,opencv&theme=light)](https://github.com/JamesCroissant)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,aws,postgres,mongodb,redis,gcp,vercel,cloudflare,linux&theme=light)](https://github.com/JamesCroissant)
 
 ### Connect with me
