@@ -3,7 +3,7 @@
 
 <br />
 
-As an aspiring 3 years Software Engineer based in Taiwan, I am deeply passionate about creating user-centric and responsive web applications. Despite not having formal job experience in the field, I have dedicated significant time to self-study and hands-on practice, focusing on mastering TypeScript, React.js, Next.js, Python and C++ for building user-friendly applications.
+Software engineer with 4 years of experience in React.js, TypeScript, and back-end development with Python. Skilled in code review, debugging, evaluating technical solutions, and building maintainable software across real-world projects with C++. Experienced in working with AI coding tools and assessing code quality, correctness, and performance. Passionate about improving AI coding models through technical evaluation, problem-solving, and actionable feedback.
 
 <br />
 
